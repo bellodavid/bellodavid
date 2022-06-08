@@ -1,6 +1,6 @@
-# Hi, I'm David 👋🏾 👨💻
+# Hi, I'm [David](https://bellodavid.github.io/) 👋🏾 👨💻
 
-I'm [Bello David](https://bellodavid.github.io/) a software engineer with love for problem-solving, continually seeking and testing new tools and opportunities for innovation. I'm passionate about web applications, blockchain technologies and development tools.  Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I also buils Dapps on blockchain platforms such as **Ethereum, Binance Smart Chain, Polygon**.  🎯
+I'm a software engineer with love for problem-solving, continually seeking and testing new tools and opportunities for innovation. I'm passionate about web applications, blockchain technologies and development tools.  Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I also buils Dapps on blockchain platforms such as **Ethereum, Binance Smart Chain, Polygon**.  🎯
 
 ## 📫 How to reach me? 
 
