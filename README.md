@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Web and Blockchain Developer continually seeking and testing new tools and opportunities for innovation. I'm passionate about web applications, blockchain technologies and development tools.
+
 <!--
 **bellodavid/bellodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
