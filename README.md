@@ -7,7 +7,7 @@ I'm a Web and Blockchain Developer with love for problem-solving, continually se
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/david-bello-4965321b7) 👨🏻‍💻 <br>
   ⦿ Email me [here](mailto:davidbello998@gmail.com) <br>
   
-  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=bellodavid&show_icons=true&include_all_commits=true&hide_border=true" alt="David's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellodavid&langs_count=8&layout=compact&hide=php&hide_border=true" alt="David's GitHub stats" /> |
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellodavid&langs_count=8&layout=compact&hide=php&hide_border=true" alt="David's GitHub stats" /> |
 | ------------- | ------------- |
 
 <!--
